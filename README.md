@@ -36,8 +36,9 @@ python -m venv venv
 pip install -r requirements.txt
 
 # 4. Lancer le scraper
-python scraper.py
+python scraper.py 
 
+```
 
 🧠 Pourquoi ce projet ?
 Dans un marché concurrentiel, la réactivité est clé. Ce projet démontre ma capacité à utiliser le Python pour automatiser des tâches répétitives et gérer des flux de données réels. C'est une brique fondamentale pour tout profil orienté Data Engineering ou IA.
