@@ -20,8 +20,8 @@ Ce projet est un outil de **web scraping** conçu pour automatiser la collecte d
 - ✅ **Filtrage intelligent** : Extraction automatique des titres de postes et des liens directs.
 - ✅ **Formatage clair** : Affichage structuré des résultats dans le terminal pour une lecture rapide.
 
-## 📸 Aperçu
-![Résultat du scraper](ton_image.png)
+## 📸 Aperçu du résultat
+![Résultat du scraper](Capture%20d'écran%202026-06-22%20071815.png)
 
 ## 🛠️ Installation et Utilisation
 
