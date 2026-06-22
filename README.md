@@ -37,3 +37,25 @@ pip install -r requirements.txt
 
 # 4. Lancer le scraper
 python scraper.py
+
+
+🧠 Pourquoi ce projet ?
+Dans un marché concurrentiel, la réactivité est clé. Ce projet démontre ma capacité à utiliser le Python pour automatiser des tâches répétitives et gérer des flux de données réels. C'est une brique fondamentale pour tout profil orienté Data Engineering ou IA.
+
+### Comment l'appliquer proprement :
+1.  **Dans VS Code :** Ouvre ton `README.md`.
+2.  **Remplace tout :** Efface le contenu actuel et colle le bloc ci-dessus.
+3.  **Sauvegarde (Ctrl+S).**
+4.  **Commit et Push :**
+    ```bash
+    git add README.md
+    git commit -m "docs: amélioration complète du README"
+    git push
+    ```
+
+### Pourquoi c'est mieux ?
+* **Les Badges :** Ils donnent tout de suite un aspect "développeur".
+* **Structure "Pro" :** On sépare bien le "pourquoi" (À propos), le "comment" (Installation) et le "pourquoi c'est bien" (Valeur ajoutée).
+* **Appel à l'action :** Tu expliques que tu as fait ça pour gagner en réactivité, ce qui montre ton état d'esprit orienté "résultats".
+
+Une fois que tu auras fait ce push, ton profil GitHub sera parfaitement homogène. Est-ce que tu veux que je t'aide à rédiger le message d'accroche pour LinkedIn maintenant que tes deux projets sont parfaitement présentés ?
