@@ -5,20 +5,20 @@
 
 # 🔍 AI-Alternance-Finder
 
-> Outil d'automatisation de veille pour la recherche d'alternance.
+> Outil d'automatisation de veille pour la recherche d'alternance en informatique.
 
 ## 🚀 À propos du projet
-Ce projet est un outil de **web scraping** développé pour automatiser la recherche d'offres d'alternance dans les domaines de l'IA, de la Data et du développement. Plutôt que de naviguer manuellement sur les sites, le script analyse les flux et extrait les opportunités pertinentes.
+Ce projet est un outil de **web scraping** conçu pour automatiser la collecte d'offres d'alternance dans les domaines de l'IA, de la Data et du développement. Il permet de pallier la navigation manuelle fastidieuse sur les plateformes d'emploi en extrayant et listant les opportunités en temps réel.
 
 ## 🛠️ Stack Technique
-- **Langage :** Python
-- **Parsing :** BeautifulSoup4, Requests
-- **Domaine :** Automatisation & Data Collection
+- **Langage** : Python
+- **Bibliothèques** : `Requests`, `BeautifulSoup4`
+- **Domaine** : Automatisation, Data Collection, Veille technologique
 
 ## ⚙️ Fonctionnalités
-- ✅ **Collecte automatique** : Récupération en temps réel des offres depuis Remotive.
-- ✅ **Filtrage intelligent** : Tri des offres par mots-clés spécifiques au secteur numérique.
-- ✅ **Formatage clair** : Affichage lisible des titres de postes avec liens directs vers les annonces.
+- ✅ **Collecte automatique** : Récupération ciblée des offres sur Remotive.
+- ✅ **Filtrage intelligent** : Extraction automatique des titres de postes et des liens directs.
+- ✅ **Formatage clair** : Affichage structuré des résultats dans le terminal pour une lecture rapide.
 
 ## 🛠️ Installation et Utilisation
 
@@ -27,38 +27,12 @@ Ce projet est un outil de **web scraping** développé pour automatiser la reche
 git clone [https://github.com/Denzo92i/ai-alternance-finder.git](https://github.com/Denzo92i/ai-alternance-finder.git)
 cd ai-alternance-finder
 
-# 2. Créer l'environnement virtuel
+# 2. Créer et activer l'environnement virtuel
 python -m venv venv
-# Windows :
 .\venv\Scripts\activate
 
 # 3. Installer les dépendances
 pip install -r requirements.txt
 
 # 4. Lancer le scraper
-python scraper.py 
-
-```
-
-
-### 🧠 Pourquoi ce projet ?
-
-Dans un marché concurrentiel, la réactivité est clé. Ce projet démontre ma capacité à utiliser le Python pour automatiser des tâches répétitives et gérer des flux de données réels. C'est une brique fondamentale pour tout profil orienté Data Engineering ou IA.
-
-### Comment l'appliquer proprement :
-1.  **Dans VS Code :** Ouvre ton `README.md`.
-2.  **Remplace tout :** Efface le contenu actuel et colle le bloc ci-dessus.
-3.  **Sauvegarde (Ctrl+S).**
-4.  **Commit et Push :**
-    ```bash
-    git add README.md
-    git commit -m "docs: amélioration complète du README"
-    git push
-    ```
-
-### Pourquoi c'est mieux ?
-* **Les Badges :** Ils donnent tout de suite un aspect "développeur".
-* **Structure "Pro" :** On sépare bien le "pourquoi" (À propos), le "comment" (Installation) et le "pourquoi c'est bien" (Valeur ajoutée).
-* **Appel à l'action :** Tu expliques que tu as fait ça pour gagner en réactivité, ce qui montre ton état d'esprit orienté "résultats".
-
-Une fois que tu auras fait ce push, ton profil GitHub sera parfaitement homogène. Est-ce que tu veux que je t'aide à rédiger le message d'accroche pour LinkedIn maintenant que tes deux projets sont parfaitement présentés ?
+python scraper.py
