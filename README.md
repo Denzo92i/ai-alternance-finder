@@ -1,9 +1,9 @@
+# 🔍 AI-Alternance-Finder
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/web%20scraping-FFA500?style=for-the-badge&logo=python&logoColor=white">
 </p>
-
-# 🔍 AI-Alternance-Finder
 
 > Outil d'automatisation de veille pour la recherche d'alternance en informatique.
 
@@ -19,6 +19,9 @@ Ce projet est un outil de **web scraping** conçu pour automatiser la collecte d
 - ✅ **Collecte automatique** : Récupération ciblée des offres sur Remotive.
 - ✅ **Filtrage intelligent** : Extraction automatique des titres de postes et des liens directs.
 - ✅ **Formatage clair** : Affichage structuré des résultats dans le terminal pour une lecture rapide.
+
+## 📸 Aperçu
+![Résultat du scraper](ton_image.png)
 
 ## 🛠️ Installation et Utilisation
 
